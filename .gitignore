@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+raw/
+raw_probe/
+logs/
+untitled folder/
+articles.db*
+probe.db
