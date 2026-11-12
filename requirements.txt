@@ -1,7 +1,0 @@
-lxml==6.1.3
-lxml_html_clean==0.4.6
-newspaper4k==0.9.6.1
-PySocks==1.7.1
-python-dateutil==2.9.0.post0
-requests==2.34.2
-trafilatura==2.3.1
