@@ -7,5 +7,6 @@ raw/
 raw_probe/
 logs/
 untitled folder/
-articles.db*
+/articles.db
+/articles.db-*
 probe.db
